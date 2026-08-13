@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm René Ochoa 👋
 
-<!--
-**RenethOC-gif/RenethOC-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Magíster en Seguridad de la Información e Ingeniero en Telecomunicaciones**  
+Especializado en ciberseguridad ofensiva y defensiva (Red Team / Blue Team Junior), análisis de vulnerabilidades y hardening de red.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Sobre mí
+- 🔭 **Enfoque actual:** Pentesting, Análisis de Vulnerabilidades (Nmap, Burp Suite, Metasploit) y Hardening de Infraestructura.
+- 🎓 **Formación:** Magíster en Seguridad de la Información & Ing. en Telecomunicaciones (UPS).
+- 🏆 **Certificaciones Destacadas:**
+  - Pentester Mentor Junior (PMJ)
+  - Network Defense Essentials (NDE) - EC-Council
+  - Cybersecurity Pentesting Pro
+- 📍 **Ubicación:** Cuenca, Ecuador
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+- **Seguridad / Pentesting:** Nmap | Burp Suite | Metasploit | Wireshark | Gobuster | Hydra | Kali Linux
+- **Redes & Sistemas:** TCP/IP | Routing & Switching | Firewalls | VPNs | Linux (Ubuntu/Kali) | Windows Server
+- **Estándares & Frameworks:** ISO/IEC 27001 | MITRE ATT&CK | OWASP Top 10
+
+---
+
+### 🌐 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renéochoa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rene.2001rafael@gmail.com)
