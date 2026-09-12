@@ -6,7 +6,7 @@ Especializado en ciberseguridad ofensiva y defensiva (Red Team / Blue Team Junio
 ---
 
 ### 🛡️ Sobre mí
-- 🔭 **Enfoque actual:** Pentesting, Análisis de Vulnerabilidades (Nmap, Burp Suite, Metasploit) y Hardening de Infraestructura.
+- 🔭 **Enfoque actual:** Pentesting, Análisis de Vulnerabilidades (Nmap, Burp Suite, Metasploit) y Blue Team/SOC (Splunk, detección de amenazas, hardening de infraestructura).
 - 🎓 **Formación:** Magíster en Seguridad de la Información & Ing. en Telecomunicaciones (UPS).
 - 🏆 **Certificaciones Destacadas:**
   - Pentester Mentor Junior (PMJ)
@@ -18,6 +18,7 @@ Especializado en ciberseguridad ofensiva y defensiva (Red Team / Blue Team Junio
 
 ### 🛠️ Tecnologías y Herramientas
 - **Seguridad / Pentesting:** Nmap | Burp Suite | Metasploit | Wireshark | Gobuster | Hydra | Kali Linux
+- **Blue Team / SOC:** Splunk (SIEM) | Sysmon | Windows Event Log | Atomic Red Team | MITRE ATT&CK
 - **Redes & Sistemas:** TCP/IP | Routing & Switching | Firewalls | VPNs | Linux (Ubuntu/Kali) | Windows Server
 - **Estándares & Frameworks:** ISO/IEC 27001 | MITRE ATT&CK | OWASP Top 10
 
